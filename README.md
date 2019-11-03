@@ -11,15 +11,15 @@
 
 
 <p align="center">
-  <img src="/Screenshots%20UNdress%20App/1_UNdress.png" width="180" title="UNdress start page">
-  <img src="/Screenshots%20UNdress%20App/2_UNdress.png" width="180" title="UNdress dashboard 1">
-  <img src="/Screenshots%20UNdress%20App/3_UNdress.png" width="180" title="UNdress dashboard 2">
-  <img src="/Screenshots%20UNdress%20App/4_UNdress.png" width="180" title="UNdress dashboard 3">
+  <img src="/Screenshots%20UNdress%20App/1_UNdress.png" width="200" title="UNdress start page">
+  <img src="/Screenshots%20UNdress%20App/2_UNdress.png" width="200" title="UNdress dashboard 1">
+  <img src="/Screenshots%20UNdress%20App/3_UNdress.png" width="200" title="UNdress dashboard 2">
+  <img src="/Screenshots%20UNdress%20App/4_UNdress.png" width="200" title="UNdress dashboard 3">
 </p>
 
 
 <p align="center">
-  <img src="/Screenshots%20UNdress%20App/1_UNdress_Employee.png" width="180" title="UNdress employee start page">
-  <img src="/Screenshots%20UNdress%20App/2_UNdress_Employee.png" width="180" title="UNdress employee dashboard 1">
-  <img src="/Screenshots%20UNdress%20App/3_UNdress_Employee.png" width="180" title="UNdress employee dashboard 2">
+  <img src="/Screenshots%20UNdress%20App/1_UNdress_Employee.png" width="200" title="UNdress employee start page">
+  <img src="/Screenshots%20UNdress%20App/2_UNdress_Employee.png" width="200" title="UNdress employee dashboard 1">
+  <img src="/Screenshots%20UNdress%20App/3_UNdress_Employee.png" width="200" title="UNdress employee dashboard 2">
 </p>

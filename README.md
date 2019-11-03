@@ -11,5 +11,6 @@
 
 
 <p align="center">
-  <img src="/Screenshots%20UNdress%20App/1_UNdress.png" width="350" title="UNdress start page">
+  <img src="/Screenshots%20UNdress%20App/1_UNdress.png" width="150" title="UNdress start page">
+  <img src="/Screenshots%20UNdress%20App/1_UNdress.png" width="150" title="UNdress start page">
 </p>

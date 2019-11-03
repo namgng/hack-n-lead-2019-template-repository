@@ -3,10 +3,17 @@
 ===
 
 # UNdress
+Empowerment through transparency.
+
+Enabling customers, companies, and workers to make informed decisions. Support directly those who produced the product that you are buying.
+ 
+
 
 ## Webpage
+Figure out more: 
+
+https://impactfootprint.wixsite.com/undress
 The website was developed on wix.
-Figure out more:
 
 
 ## Customer App

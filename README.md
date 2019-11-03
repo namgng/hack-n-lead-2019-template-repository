@@ -2,15 +2,12 @@
 
 ===
 
-## Steps
+# UNdress
 
-1. `Fork` this repository
-2. Add your team members as contributors
-3. Put your presentation in the `docs/` folder
-4. This repository **must** be open source (and licensed) in order to submit
 
 
 ## Customer App
+You find a mockup of the customer app here:
 https://www.figma.com/proto/uMJNasDXWGVpUGycgmhPCQ/UnDress---Customer-App?node-id=51%3A583&scaling=scale-down
 
 <p align="center">
@@ -21,6 +18,7 @@ https://www.figma.com/proto/uMJNasDXWGVpUGycgmhPCQ/UnDress---Customer-App?node-i
 </p>
 
 ## Employee App
+You find a mockup of the app for employees here:
 https://www.figma.com/proto/esaS7Jn2y5NafsS2v5gq5S/UnDress---Employee-App?node-id=0%3A286&scaling=scale-down
 
 <p align="center">

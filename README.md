@@ -5,6 +5,7 @@
 # UNdress
 
 ## Webpage
+The website was developed on wix.
 Figure out more:
 
 
@@ -31,4 +32,7 @@ https://www.figma.com/proto/esaS7Jn2y5NafsS2v5gq5S/UnDress---Employee-App?node-i
 
 
 ## Scripts for creating some demostration data
+This dataset we used is available in the excel sheet.
+The data sources were from Global Slaverz Index, Wikipedia to know average salary for workers depeding on their respective country, and we simulated some fake data to respresent different scenarios depending on customer donation. 
+In R, we used ggplot2 to visualize our dataset and use it for data insights to be available for the buisnesss dashboard for the comapny.
 https://github.com/namgng/undress/tree/master/Data%20Analysis

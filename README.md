@@ -28,3 +28,7 @@ https://www.figma.com/proto/esaS7Jn2y5NafsS2v5gq5S/UnDress---Employee-App?node-i
   <img src="/Screenshots%20UNdress%20App/2_UNdress_Employee.png" width="200" title="UNdress employee dashboard 1">
   <img src="/Screenshots%20UNdress%20App/3_UNdress_Employee.png" width="200" title="UNdress employee dashboard 2">
 </p>
+
+
+## Scripts for creating some demostration data
+https://github.com/namgng/undress/tree/master/Data%20Analysis

@@ -6,7 +6,8 @@
 Empowerment through transparency.
 
 Enabling customers, companies, and workers to make informed decisions. Support directly those who produced the product that you are buying.
- 
+
+https://github.com/namgng/undress/blob/master/docs/UnDress.pptx
 
 
 ## Webpage

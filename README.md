@@ -10,4 +10,4 @@
 4. This repository **must** be open source (and licensed) in order to submit
 
 
-![UNdress start page](https://github.com/namgng/undress/blob/master/Screenshots%20UNdress%20App/1_UNdress.png)
+![UNdress start page](https://github.com/namgng/undress/blob/master/Screenshots%20UNdress%20App/1_UNdress.png | width=100)

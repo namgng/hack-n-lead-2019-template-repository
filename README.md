@@ -10,10 +10,9 @@ Enabling customers, companies, and workers to make informed decisions. Support d
 
 
 ## Webpage
-Figure out more: 
+Figure out more on your webpage: 
 
 https://impactfootprint.wixsite.com/undress
-The website was developed on wix.
 
 
 ## Customer App

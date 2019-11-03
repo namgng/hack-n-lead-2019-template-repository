@@ -17,6 +17,7 @@ https://impactfootprint.wixsite.com/undress
 
 ## Customer App
 You find a mockup of the customer app here:
+
 https://www.figma.com/proto/uMJNasDXWGVpUGycgmhPCQ/UnDress---Customer-App?node-id=51%3A583&scaling=scale-down
 
 <p align="center">
@@ -28,6 +29,7 @@ https://www.figma.com/proto/uMJNasDXWGVpUGycgmhPCQ/UnDress---Customer-App?node-i
 
 ## Employee App
 You find a mockup of the app for employees here:
+
 https://www.figma.com/proto/esaS7Jn2y5NafsS2v5gq5S/UnDress---Employee-App?node-id=0%3A286&scaling=scale-down
 
 <p align="center">
